@@ -129,7 +129,7 @@
   height: 100vh;
   -webkit-transition: .5s;
   transition: .5s;
-  z-index: 98;
+  z-index: -1;
   position: fixed;
   opacity: 0;
 }
